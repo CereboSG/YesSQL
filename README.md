@@ -1,4 +1,5 @@
 # YesSQL
 ### NoSQL ?
 ### No need SQL !
-<h2> Team 2 <h1>
+<h1> Team 1</h1>
+<h2> Team 2 <h2>
